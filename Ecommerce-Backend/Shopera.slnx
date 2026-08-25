@@ -1,4 +1,0 @@
-<Solution>
-  <Project Path="Shopera.csproj" />
-  <Project Path="tests/Shopera.Tests/Shopera.Tests.csproj" />
-</Solution>

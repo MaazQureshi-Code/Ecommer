@@ -177,7 +177,7 @@
 .wishlist-item__cart:hover,
 .wishlist-empty__shop-button:hover {
   filter: saturate(1.08);
-  box-shadow: 0 18px 34px rgba(83, 84, 205, 0.3);
+  box-shadow: 0 18px 34px rgba(77, 77, 218, 0.3);
   transform: translateY(-2px);
 }
 
